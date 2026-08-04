@@ -25,7 +25,7 @@ A Computer Science student at Telkom University with a strong interest in web de
 </div>
 
 #### My Github Stat:
-![Yusufalfaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusufalfaa&show_icons=true&theme=gotham)
+![Yusufalfaa's GitHub stats](https://github-stats-extended.vercel.app/api?username=Yusufalfaa&show_icons=true&theme=gotham)
 
 <img src="https://raw.githubusercontent.com/Yusufalfaa/Yusufalfaa/output/snake.svg" alt="Snake animation" />
 
